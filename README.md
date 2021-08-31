@@ -1,5 +1,5 @@
 # Summary
-With X'-platform and PaaS, Android developing. Although I've never output here💧
+With X'-platform and PaaS, Android developing.
 
 # Subject
-HaxeFlixel/Kivy/Flutter/Firebase/WebRTC/Stripe/GraphQL
+DxLib.h/HaxeFlixel/Kivy/Flutter/Firebase/WebRTC/Stripe
