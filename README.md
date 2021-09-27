@@ -2,4 +2,4 @@
 With X'-platform and PaaS, Android developing.
 
 # Subject
-DxLib.h/HaxeFlixel/Kivy/Flutter/Firebase/WebRTC/Stripe
+DxLib.h/HaxeFlixel/KivyMD/Flutter/Firebase/WebRTC/Stripe/Algolia
