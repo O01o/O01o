@@ -1,8 +1,3 @@
-# 概要
-My field is Native-app dev with X'-platform and GCP.  
-And I'm interested in Music Information Retrieval.  
-Mix engineering is able, too.  
-For the graduation thesis, I'm studying AI voice conversion.
-
-# 言語とAPI
-Flutter/C#.NET/Python/Haxe/Firebase
+# Learning
+Flutter, C#.NET, Vue.js, Laravel, Python, Haxe, Solidity, Firebase, BigQuery, Tensorflow
+And MIR(Music Information Retrieval) is my specialized field. AI Human Voice Exchanger is my Reserch Project.
