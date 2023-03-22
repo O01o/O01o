@@ -1,2 +1,3 @@
-# Learning
-Python, Flutter, C#.NET, JUCE, Faust, Solidity, GCP
+# About Me
+主に個人でFlutterやPythonの勉強をしています。  
+
