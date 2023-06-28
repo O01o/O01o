@@ -1,3 +1,3 @@
 # About Me
-主に個人でFlutterやPythonの勉強をしています。  
+Python/Flutter/Tauri+Next.js/ROS/GCP  
 
