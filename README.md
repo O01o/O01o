@@ -1,3 +1,3 @@
 # About Me
-Python/Flutter/Tauri+Next.js/ROS/GCP  
-
+現在はFlutterやSvelte(+Tauri)等を活用したアプリ開発に注力しています。データ指向設計に基づいた分散システムに強い関心があります。  
+その他、画像処理や音声処理等の数値計算系を触り程度に扱っています。
